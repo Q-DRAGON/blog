@@ -1,6 +1,2 @@
-# 只忽略根目录下的TODO目录，不作用于子目录下的TODO
 /template/
 /node_modules/
-/static/js/ace/
-/static/js/markdown.js
-/static/css/markdown.css
